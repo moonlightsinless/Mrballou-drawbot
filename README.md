@@ -64,3 +64,4 @@ If you have questions suggestions or bugs, please open an issue or send me a dm 
   + Click.
   + The bot will now only draw in the new defined area.
   + Reset by pressing the reset button.
+# catbot.py
